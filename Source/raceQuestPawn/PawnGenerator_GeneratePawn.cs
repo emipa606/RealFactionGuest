@@ -68,7 +68,6 @@ public class PawnGenerator_GeneratePawn
                         var optionsplus = pawnGroupMaker.options;
                         //miss traders.
                         optionsplus.AddRange(pawnGroupMaker.traders);
-                        //optionsplus.AddRange(pawnGroupMaker.carriers);
                         optionsplus.AddRange(pawnGroupMaker.guards);
                         foreach (var pawnGenOption in optionsplus)
                         {
@@ -145,7 +144,6 @@ public class PawnGenerator_GeneratePawn
                     var optionsplus = pawnGroupMaker.options;
                     //miss traders.
                     optionsplus.AddRange(pawnGroupMaker.traders);
-                    //optionsplus.AddRange(pawnGroupMaker.carriers);
                     optionsplus.AddRange(pawnGroupMaker.guards);
                     foreach (var pawnGenOption in optionsplus)
                     {

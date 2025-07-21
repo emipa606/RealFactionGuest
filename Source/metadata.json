@@ -4,6 +4,12 @@
   "CanRemove": "0",
   "PreviewVersion": "1.6",
   "SocialImageSet": true,
-  "LastXmlCleaning": "2025-06-29T21:03:12.0678141+02:00",
-  "SearchTags": " faction diversity"
+  "LastXmlCleaning": "2025-07-21T12:19:26.1359966+02:00",
+  "SearchTags": " faction diversity",
+  "Patches": false,
+  "Defs": false,
+  "Assemblies": true,
+  "LinesOfCode": 9316,
+  "LinesOfXML": 0,
+  "CodeBaseSize": 63
 }
